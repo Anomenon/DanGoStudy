@@ -1,4 +1,4 @@
-# flutter_dangogo_app
+# DangoGo
 
 A new Flutter project.
 
